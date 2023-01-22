@@ -1,0 +1,44 @@
+﻿  chess.cpp
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(5): error C2653: 'sf': is not a class or namespace name
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(5): error C2065: 'RenderWindow': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(5): error C2146: syntax error: missing ';' before identifier 'window'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(5): error C3861: 'VideoMode': identifier not found
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(5): error C3861: 'window': identifier not found
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(6): error C2653: 'sf': is not a class or namespace name
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(6): error C2065: 'CircleShape': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(6): error C2146: syntax error: missing ';' before identifier 'shape'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(6): error C3861: 'shape': identifier not found
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(7): error C2065: 'shape': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(7): error C2228: left of '.setFillColor' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(7): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(7): error C2653: 'sf': is not a class or namespace name
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(7): error C2065: 'Green': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(9): error C2065: 'window': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(9): error C2228: left of '.isOpen' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(9): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(11): error C2653: 'sf': is not a class or namespace name
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(11): error C2065: 'Event': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(11): error C2146: syntax error: missing ';' before identifier 'event'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(11): error C2065: 'event': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(12): error C2065: 'window': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(12): error C2228: left of '.pollEvent' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(12): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(12): error C2065: 'event': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(14): error C2065: 'event': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(14): error C2228: left of '.type' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(14): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(14): error C2653: 'sf': is not a class or namespace name
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(14): error C2065: 'Closed': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(15): error C2065: 'window': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(15): error C2228: left of '.close' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(15): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(18): error C2065: 'window': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(18): error C2228: left of '.clear' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(18): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(19): error C2065: 'window': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(19): error C2228: left of '.draw' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(19): note: type is 'unknown-type'
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(19): error C2065: 'shape': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(20): error C2065: 'window': undeclared identifier
+c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(20): error C2228: left of '.display' must have class/struct/union
+  c:\users\neeraj batheja\desktop\chess game\chess\chess.cpp(20): note: type is 'unknown-type'
